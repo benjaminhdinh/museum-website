@@ -19,11 +19,6 @@ header{
 #red{
   color: #c9523d;
 }
-.secondBox{
-  display: flex;
-  flex-direction: row;
-  color: #000000;
-}
 h1{
   text-align: center;
   line-height: 170px;
@@ -164,14 +159,6 @@ p{
     padding-left:2px;
     padding-right:2px;
   }
-  .secondBox{
-    font-size: 15px;
-    justify-content: space-between;
-    font-weight: 300;
-    padding-top: 10px;
-    padding-left:30px;
-    padding-right:30px;
-  }
   h1{
     font-size:55px;
     line-height: 150px;
@@ -248,14 +235,6 @@ p{
     font-weight: 600;
     padding-left:2px;
     padding-right:2px;
-  }
-  .secondBox{
-    font-weight: 300;
-    font-size: 14px;
-  }
-  .navigationButton{
-    padding-left: 8px;
-    padding-right: 8px;
   }
   h2{
     font-size: xx-large;
